@@ -97,11 +97,4 @@ public class sendUserDetailToServer extends AsyncTask<ArrayList<String>, Void, S
 
 # 👓 Also Checkout
 
-<a href="https://github.com/AdityaV025/MuncheRestaurantPartner">Munche Restaurant Partner App</a>
-
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+<a href="https://github.com/WorkingYashSharma/MunchePartner">Munche Partner App</a>
