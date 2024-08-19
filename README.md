@@ -14,6 +14,10 @@ Munche is an open source 🍔 food ordering android application developed in **J
   width = 37% />
 </p>
 
+# 👓 Also Checkout
+
+<a href="https://github.com/WorkingYashSharma/MunchePartner">Munche Partner App</a>
+
 # ☁️ Inspiration
 
 Munche's main inspiration for it's UI comes from the <a href="https://play.google.com/store/apps/details?id=com.application.zomato&hl=en_IN&gl=US">Zomato's</a> android app. I have incorporated some of the UI elements and features which the Zomato app had when I was developing the app.
@@ -91,10 +95,3 @@ public class sendUserDetailToServer extends AsyncTask<ArrayList<String>, Void, S
 # 👨 Made By
 
 `Yash Sharma`
-
-**Connect with me on**
-</br>
-
-# 👓 Also Checkout
-
-<a href="https://github.com/WorkingYashSharma/MunchePartner">Munche Partner App</a>
