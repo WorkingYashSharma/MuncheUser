@@ -51,7 +51,7 @@ Some of the features of Munche app are:
 1. Clone or download the repository :
 
 ```shell
-git clone https://github.com/AdityaV025/Munche.git
+git clone https://github.com/WorkingYashSharma/MuncheUser.git
 ```
 
 2. Import the project into Android Studio.
