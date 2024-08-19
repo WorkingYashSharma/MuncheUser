@@ -1,28 +1,16 @@
-<img src="https://raw.githubusercontent.com/AdityaV025/Munche/master/assets/Cover_Image.png?token=AJM5NN7OGBC4SNJPEJ76BR3A52VFW">
+<img src="https://github.com/WorkingYashSharma/MuncheUser/blob/main/assets/Cover_Image.png">
 
 ### Show some ❤️ and star the repo to show support for the project
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AdityaV025/Munche/master/assets/do_it.gif">
-</p>
-
 <h1 align="center"> Munche Android App </h1>
 
-<p align="center">
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
-  <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
-  <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
-</p>
-
 Munche is an open source 🍔 food ordering android application developed in **Java** and **Kotlin**. Munche is mainly developed so I can improve my android development skills by building a real world application and experiment with different android components.
-
-*Please Note:* Munche is developed when I was still learning good android development practices so please don't expect the code to be great and follow design guidelines and practices.
 
 # Demo
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AdityaV025/Munche/master/assets/demo.gif?token=AJM5NN5DLJJTWLG73J3NNP3A53LJE" alt="animated" width = 37%/>
-  <img src="https://raw.githubusercontent.com/AdityaV025/Munche/master/assets/demo2.gif?token=AJM5NN22BOVODRNRDUDQVUTA53LTS" alt="animated"
+  <img src="https://github.com/WorkingYashSharma/MuncheUser/blob/main/assets/demo.gif" alt="animated" width = 37%/>
+  <img src="https://github.com/WorkingYashSharma/MuncheUser/blob/main/assets/demo2.gif" alt="animated"
   width = 37% />
 </p>
 
@@ -102,37 +90,15 @@ public class sendUserDetailToServer extends AsyncTask<ArrayList<String>, Void, S
 
 # 👨 Made By
 
-`Aditya Verma`
+`Yash Sharma`
 
 **Connect with me on**
 </br>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AdityaV025)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-66b7a913b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aditya.verma7708@gmail.com)
 
 # 👓 Also Checkout
 
 <a href="https://github.com/AdityaV025/MuncheRestaurantPartner">Munche Restaurant Partner App</a>
 
-# 📜 License 
-```
-MIT License
-
-Copyright (c) 2021 Aditya Verma
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
